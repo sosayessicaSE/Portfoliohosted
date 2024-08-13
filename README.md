@@ -20,9 +20,10 @@ Install Dependencies: Navigate to the project directory and install the dependen
 
 cd repository-name
 npm install
-Start the Development Server: Run the development server to view the template in action.
 
+Start the Development Server: Run the development server to view the template in action.
 npm start
+
 Customization
 To customize the template, follow these steps:
 
